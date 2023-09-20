@@ -1,0 +1,66 @@
+  .box {
+    /*Sets the height and width of the section */
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .box-blue {
+    /* Sets font color */
+    color: white;
+    /* Sets background color */
+    background-color: #0000ff;
+    border: red solid;
+  }
+  
+  .box-orange {
+    /* Uses hex codes to define color */
+    color: #0000ff;
+    background-color: #ffa500;
+  }
+  
+  #box-yellow {
+    /* Uses predefined colors to define color */
+    color: purple;
+    background-color: yellow;
+  }
+  .lesson {
+    width: 200px;
+    height: 100px;
+  }
+  /* Uses hex code to define color */
+  .section-blue {
+    color: #ffa500;
+    background-color: #0000FF;
+  }
+  
+  .text-orange{
+    color: orange;
+  }
+   
+  /* Uses predefined colors */
+  .container {
+    color: white;
+    background-color: black;
+  }
+  
+  .text-red{
+    color: red;
+  }
+  /* Purple and yellow are example of high contrast colors */
+  #section-1 {
+    color: #ffff00;
+    background-color: #800080;
+  }
+  
+  
+  #section-6 {
+    color: #ffff00;
+  }
+  
+  h1 {
+    margin-bottom: 15px;
+    font-size: 60px;
+    background-color: aqua;
+  };
+  
